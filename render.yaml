@@ -4,7 +4,7 @@ services:
     env: python
     buildCommand: ""
     startCommand: bash start.sh
-    repo: https://github.com/usuario/iris-api-db
+    repo: https://github.com/prayon/iris-api-db
     branch: main
     plan: free
     envVars:
